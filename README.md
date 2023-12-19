@@ -1,6 +1,4 @@
-# US-Monthly-Birth-Data
-US Monthly Birth Data
-
+Electricity Generated in US by Sector
 
 1. Generate at least 12 plots by following the tutorial covered in class.
 
