@@ -1,4 +1,5 @@
-Electricity Generated in US by Sector
+Cardiovascular-Disease-Dataset
+
 
 1. Generate at least 12 plots by following the tutorial covered in class.
 
